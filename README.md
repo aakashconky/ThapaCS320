@@ -1,3 +1,1 @@
-How can I ensure that my code, program, or software is functional and secure?
-How do I interpret user needs and incorporate them into a program?
-How do I approach designing software?
+My approach was based on the requirements of the software. The goal was to satisfy each requirement by performing unit testing. As unit test helps to prevent bugs early in the process, we used the Junit testing tool for this project. My approach was to test only one code at one time, which makes things a lot easier.I knew the Junit testing was working well by looking at the coverage percentage. I tried my best to keep the percentage higher than 80%. I ended up with my project at 87%. Also, in Eclipse, if the code was not tested or covered, it was shown in red colors, so this visual highlight was able to make me see clearly what was not covered during testing. 
